@@ -100,17 +100,17 @@ I've used [Jupyter Notebook]() for coding!
 * SaleType: Type of sale
 * SaleCondition: Condition of sale
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-House_Price_Prediction_XGBoost_Regression/blob/main/House%20Price%20Prediction%20XGBoost%20Regression.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-House_Price_Prediction_XGBoost_Regression/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-House_Price_Prediction_XGBoost_Regression/blob/main/images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-House_Price_Prediction_XGBoost_Regression/blob/main/images/3.png)
 
-![Image4]()
+![Image4](https://github.com/Anuragtsl/ML-House_Price_Prediction_XGBoost_Regression/blob/main/images/4.png)
 
 
 #Njoy!
